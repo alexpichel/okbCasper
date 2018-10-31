@@ -78,7 +78,7 @@ class TagTemplate extends React.Component {
                   <div className="main-header-content inner">
                     <PageTitle text={tag} />
                     <PageDescription
-                      text={tag.description || `A ${total}-post collection`}
+                      text={tag.description || `A ${total}-program collection`}
                     />
                   </div>
                 </div>
