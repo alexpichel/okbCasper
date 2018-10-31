@@ -2,9 +2,8 @@
 title: Central Precinct Foot Patrol
 date: "2015-10-19"
 cover: /assets/policing.png
-logo: /assets/agency/ppb.png
-path: "/posts/central-precinct-foot-patrol/"
 agency: "Portland Police Bureau"
+author: "ppb"
 category: "Policing"
 tags:
   - "Assault"

@@ -2,9 +2,8 @@
 title: Police-Community Relations in Albina, 1964-1985
 date: "2015-12-09"
 cover: /assets/research.png
-logo: /assets/agency/psu-logo.png
-path: "/posts/police-community-relations-albina/"
 agency: "Portland State University - 2013"
+author: "psu"
 category: "Research"
 tags:
   - "Community Relations"

@@ -2,9 +2,8 @@
 title: Specialized Crisis Response for Person with Mental Illness
 date: "2015-11-04"
 cover: /assets/research.png
-logo: /assets/agency/multnomah-logo.png
-path: "/posts/specialized-crisis-response/"
 agency: "Multnomah County - 2001"
+author: "multnomah"
 category: "Research"
 tags:
   - "Mental Illness"

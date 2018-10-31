@@ -2,9 +2,8 @@
 title: Yamhill County SMART Sentencing Initiative
 date: "2016-02-17"
 cover: /assets/correctional.png
-logo: /assets/agency/yamhill-dcj-logo.png
-path: "/posts/yamhill-SMART/"
 agency: "Yamhill County Department of Community Justice"
+author: "yamhill-dcj"
 category: "Correctional"
 tags:
   - "Justice Reinvestment"

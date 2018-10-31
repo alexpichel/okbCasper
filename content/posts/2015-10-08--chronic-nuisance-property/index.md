@@ -2,9 +2,8 @@
 title: Chronic Nuisance Property
 date: "2015-10-08"
 cover: /assets/policing.png
-logo: /assets/agency/corvallis-pd-logo.png
-path: "/posts/chronic-nuisance-property/"
 agency: "Corvallis Police Department"
+author: "corvallis-pd"
 category: "Policing"
 tags:
   - "Quality of Life"

@@ -2,9 +2,8 @@
 title: Police Use of Force and People with Mental Illness
 date: "2015-11-30"
 cover: /assets/research.png
-logo: /assets/agency/ppb.png
-path: "/posts/use-of-force-mental-illness/"
 agency: "University of Massachusetts - 2015"
+author: "umass"
 category: "Research"
 tags:
   - "Mental Illness"

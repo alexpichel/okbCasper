@@ -2,9 +2,8 @@
 title: Qaxas Trail Cleanup
 date: "2015-10-19"
 cover: /assets/policing.png
-logo: /assets/agency/conftribes-pd-logo.png
-path: "/posts/qaxas-trail-cleanup/"
 agency: "Confederated Tribes of Coos, Lower Umpqua, & Siuslaw Indians Police Department"
+author: "conf-tribes"
 category: "Policing"
 tags:
   - "Chronic Nuisance"

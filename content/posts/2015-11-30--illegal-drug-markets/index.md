@@ -2,9 +2,8 @@
 title: "Illegal Drug Markets in Portland, Oregon"
 date: "2015-11-30"
 cover: /assets/research.png
-logo: /assets/agency/ppb.png
-path: "/posts/illegal-drug-markets/"
 agency: "Northeastern University - 2006"
+author: "northeastern"
 category: "Research"
 tags:
   - "Drugs"

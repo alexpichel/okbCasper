@@ -2,9 +2,8 @@
 title: Klamath County Gender Specific Supervision
 date: "2016-02-02"
 cover: /assets/correctional.png
-logo: /assets/agency/klamath-county-logo.png
-path: "/posts/klamath-gender-specific-supervision/"
 agency: "Klamath County Community Corrections"
+author: "klamath-cc"
 category: "Correctional"
 tags:
   - "Specialized Caseload"

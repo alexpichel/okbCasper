@@ -1,9 +1,8 @@
 ---
 title: Exclusion Program
 date: "2015-11-19"
-cover: /assets/policing.png
-logo: /assets/agency/clackamas-sheriff-logo.png
 agency: "Clackamas County Sheriff's Office"
+author: "clackamas-s"
 category: "Policing"
 tags:
   - "Quality of Life"

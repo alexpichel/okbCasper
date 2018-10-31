@@ -2,9 +2,8 @@
 title: Washington County Integrated Re-Entry Intensive Supervision and Services (IRISS)
 date: "2015-11-12"
 cover: /assets/correctional.png
-logo: /assets/agency/washington-logo.png
-path: "/posts/iriss/"
 agency: "Washington County Community Corrections"
+author: "washington-cc"
 category: "Correctional"
 tags:
   - "Justice Reinvestment"

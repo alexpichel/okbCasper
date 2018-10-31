@@ -2,9 +2,8 @@
 title: Deschutes County STTL and Downward Departure
 date: "2015-11-20"
 cover: /assets/correctional.png
-logo: /assets/agency/deschutes-pp-logo.PNG
-path: "/posts/deschutes-sttl/"
 agency: "Deschutes County Adult Parole & Probation"
+author: "deschutes-pp"
 category: "Correctional"
 tags:
   - "Justice Reinvestment"

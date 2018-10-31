@@ -2,9 +2,8 @@
 title: Distressed Property Strategy
 date: "2016-03-23"
 cover: /assets/policing.png
-logo: /assets/agency/ppb.png
-path: "/posts/distressed-property-strategy/"
 agency: "Portland Police Bureau"
+author: "ppb"
 category: "Policing"
 tags:
   - "Abandoned Properties"

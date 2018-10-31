@@ -2,9 +2,8 @@
 title: The Effect of Trees on Crime in Portland, Oregon
 date: "2015-11-09"
 cover: /assets/research.png
-logo: /assets/agency/ppb.png
-path: "/posts/effect-of-trees-on-crime/"
 agency: "U.S. Department of Agriculture - 2012"
+author: "us-ag"
 category: "Research"
 tags:
   - "Crime Prevention"

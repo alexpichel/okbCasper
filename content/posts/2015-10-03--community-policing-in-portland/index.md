@@ -2,9 +2,8 @@
 title: Community Policing in Portland
 date: "2015-10-03"
 cover: /assets/research.png
-logo: /assets/agency/psu-logo.png
-path: "/posts/community-policing-in-portland/"
 agency: "Portland State University - 2000"
+author: "psu"
 category: "Research"
 tags:
   - "Community Policing"

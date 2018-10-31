@@ -2,9 +2,8 @@
 title: Property Information Database (RAPID)
 date: "2016-02-05"
 cover: /assets/policing.png
-logo: /assets/agency/ppb.png
-path: "/posts/RAPID/"
 agency: "Portland Police Bureau"
+author: "ppb"
 category: "Policing"
 tags:
   - "rapid"

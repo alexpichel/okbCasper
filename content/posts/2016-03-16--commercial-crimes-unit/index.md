@@ -2,9 +2,8 @@
 title: Commercial Crimes Unit
 date: "2016-03-16"
 cover: /assets/policing.png
-logo: /assets/agency/tigard-pd-logo.png
-path: "/posts/commercial-crimes-unit/"
 agency: "Tigard Police Department"
+author: "tigard-pd"
 category: "Policing"
 tags:
   - "Crime Prevention"

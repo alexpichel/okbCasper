@@ -2,9 +2,8 @@
 title: Grant County Restitution Advocate
 date: "2015-11-02"
 cover: /assets/correctional.png
-logo: /assets/agency/doc-logo.png
-path: "/posts/grant-restitution-advocate/"
 agency: "Grant County Community Corrections"
+author: "grant-cc"
 category: "Correctional"
 tags:
   - "Justice Reinvestment"

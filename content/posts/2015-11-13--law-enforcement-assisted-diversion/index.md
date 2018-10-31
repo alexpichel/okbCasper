@@ -2,9 +2,8 @@
 title: Law Enforcement Assisted Diversion
 date: "2015-11-13"
 cover: /assets/policing.png
-logo: /assets/agency/dallas-pd-logo.png
-path: "/posts/law-enforcement-assisted-diversion/"
 agency: "Dallas Police Department"
+author: "dallas-pd"
 category: "Policing"
 tags:
   - "Mental Illness"

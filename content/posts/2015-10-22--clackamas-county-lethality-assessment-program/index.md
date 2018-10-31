@@ -2,9 +2,8 @@
 title: Clackamas County Lethality Assessment Program
 date: "2015-10-22"
 cover: /assets/policing.png
-logo: /assets/agency/clackamas-sheriff-logo.png
-path: "/posts/lethality-assessment-program/"
 agency: "Clackamas County Sheriff's Office"
+author: "clackamas-s"
 category: "Policing"
 tags:
   - "Domestic Violence"

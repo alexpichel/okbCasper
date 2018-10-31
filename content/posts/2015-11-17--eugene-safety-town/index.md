@@ -1,9 +1,8 @@
 ---
 title: Eugene Safety Town
 date: "2015-11-17"
-cover: /assets/policing.png
-logo: /assets/agency/eugene-pd-logo.png
 agency: "Eugene Police Department"
+author: "eugene-pd"
 category: "Policing"
 tags:
   - "Crime Prevention"

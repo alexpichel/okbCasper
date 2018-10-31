@@ -2,9 +2,8 @@
 title: Operational Analysis of Clearview and Partridge Apartments
 date: "2015-10-19"
 cover: /assets/policing.png
-logo: /assets/agency/keizer-pd-logo.png
-path: "/posts/analysis-clearview-partridge/"
 agency: "Keizer Police Department"
+author: "keizer-pd"
 category: "Policing"
 tags:
   - "Chronic"

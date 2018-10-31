@@ -2,9 +2,8 @@
 title: Juveniles in Sam Johnson Park
 date: "2015-10-19"
 cover: /assets/policing.png
-logo: /assets/agency/redmond-pd-logo.png
-path: "/posts/juveniles-in-sam-johnson-park/"
 agency: "Redmond Police Department"
+author: "redmond-pd"
 category: "Policing"
 tags:
   - "Chronic Nuisance"

@@ -2,9 +2,8 @@
 title: Special Response Fee Notice
 date: "2015-10-08"
 cover: /assets/policing.png
-logo: /assets/agency/corvallis-pd-logo.png
-path: "/posts/special-response-fee-notice/"
 agency: "Corvallis Police Department"
+author: "corvallis-pd"
 category: "Policing"
 tags:
   - "Chronic Nuisance"

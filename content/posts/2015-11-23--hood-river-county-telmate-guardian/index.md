@@ -2,9 +2,8 @@
 title: Hood River County Telmate Guardian
 date: "2015-11-23"
 cover: /assets/correctional.png
-logo: /assets/agency/hoodriver-sheriff-logo.png
-path: "/posts/hood-river-telmate/"
 agency: "Hood River County Sheriff's Office"
+author: "hoodriver-s"
 category: "Correctional"
 tags:
   - "Community Supervision"

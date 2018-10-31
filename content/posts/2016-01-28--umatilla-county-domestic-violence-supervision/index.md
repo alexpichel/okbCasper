@@ -2,9 +2,8 @@
 title: Umatilla County Domestic Violence Supervision
 date: "2016-01-28"
 cover: /assets/correctional.png
-logo: /assets/agency/umatilla-county-logo.png
-path: "/posts/umatilla-dv-supervision/"
 agency: "Umatilla County Community Corrections"
+author: "umatilla-cc"
 category: "Correctional"
 tags:
   - "Family Violence"
