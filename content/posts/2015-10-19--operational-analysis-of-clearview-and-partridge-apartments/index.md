@@ -1,7 +1,6 @@
 ---
 title: Operational Analysis of Clearview and Partridge Apartments
 date: "2015-10-19"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
 path: "/posts/analysis-clearview-partridge/"

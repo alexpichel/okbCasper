@@ -1,7 +1,6 @@
 ---
 title: Juveniles in Sam Johnson Park
 date: "2015-10-19"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/redmond-pd-logo.png
 path: "/posts/juveniles-in-sam-johnson-park/"

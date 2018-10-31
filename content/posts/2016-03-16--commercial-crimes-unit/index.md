@@ -1,7 +1,6 @@
 ---
 title: Commercial Crimes Unit
 date: "2016-03-16"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/tigard-pd-logo.png
 path: "/posts/commercial-crimes-unit/"
@@ -13,6 +12,7 @@ tags:
   - "Trespass"
 subTitle: "A specialized investigative unit aims to reduce commercial crime and increase livability for local merchants and businesses."
 ---
+
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 #### PROBLEMATIC BEHAVIOR OR ACTIVITY

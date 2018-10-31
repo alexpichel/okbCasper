@@ -1,7 +1,6 @@
 ---
 title: Community Policing in Portland
 date: "2015-10-03"
-layout: post
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
 path: "/posts/community-policing-in-portland/"

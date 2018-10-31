@@ -1,7 +1,6 @@
 ---
 title: Exclusion Program
 date: "2015-11-19"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/clackamas-sheriff-logo.png
 agency: "Clackamas County Sheriff's Office"

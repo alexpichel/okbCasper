@@ -1,7 +1,6 @@
 ---
 title: Squatters in Foreclosed Homes
 date: "2015-09-22"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
 path: "/posts/squatters-in-foreclosed-homes/"

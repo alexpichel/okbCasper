@@ -1,7 +1,6 @@
 ---
 title: Yamhill County Pretrial Justice Program
 date: "2016-02-25"
-layout: post
 cover: /assets/correctional.png
 logo: /assets/agency/yamhill-dcj-logo.png
 path: "/posts/yamhill-pretrial/"
@@ -11,6 +10,7 @@ tags:
   - "Pretrial Release"
 subTitle: "A comprehensive pre-trial assessment providing release recommendations shows a promising trend of contributing to a reduction of FTAs and daily jail population."
 ---
+
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 #### PROBLEMATIC BEHAVIOR OR ACTIVITY

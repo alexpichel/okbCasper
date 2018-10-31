@@ -1,7 +1,6 @@
 ---
 title: Distressed Property Strategy
 date: "2016-03-23"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
 path: "/posts/distressed-property-strategy/"
@@ -11,6 +10,7 @@ tags:
   - "Abandoned Properties"
 subTitle: "A collaborative, systematic approach to addressing distressed properties produced a reduction in a number of call types in the area surrounding these properties."
 ---
+
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 #### PROBLEMATIC BEHAVIOR OR ACTIVITY

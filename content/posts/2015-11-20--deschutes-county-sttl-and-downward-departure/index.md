@@ -1,7 +1,6 @@
 ---
 title: Deschutes County STTL and Downward Departure
 date: "2015-11-20"
-layout: post
 cover: /assets/correctional.png
 logo: /assets/agency/deschutes-pp-logo.PNG
 path: "/posts/deschutes-sttl/"

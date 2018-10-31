@@ -1,7 +1,6 @@
 ---
 title: Functional Family Probation (FFP)
 date: "2016-01-28"
-layout: post
 cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
 path: "/posts/ffp/"

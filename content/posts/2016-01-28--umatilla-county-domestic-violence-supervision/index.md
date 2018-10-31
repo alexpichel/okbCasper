@@ -1,7 +1,6 @@
 ---
 title: Umatilla County Domestic Violence Supervision
 date: "2016-01-28"
-layout: post
 cover: /assets/correctional.png
 logo: /assets/agency/umatilla-county-logo.png
 path: "/posts/umatilla-dv-supervision/"

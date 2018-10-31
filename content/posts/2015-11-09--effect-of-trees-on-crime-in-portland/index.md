@@ -1,7 +1,6 @@
 ---
 title: The Effect of Trees on Crime in Portland, Oregon
 date: "2015-11-09"
-layout: post
 cover: /assets/research.png
 logo: /assets/agency/ppb.png
 path: "/posts/effect-of-trees-on-crime/"
