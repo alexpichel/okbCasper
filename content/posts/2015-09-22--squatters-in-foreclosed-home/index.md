@@ -6,6 +6,7 @@ cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
 path: "/posts/squatters-in-foreclosed-homes/"
 agency: "Keizer Police Department"
+author: "keizer-pd"
 category: "Policing"
 tags:
   - "Abandoned Properties"
