@@ -1,6 +1,5 @@
 ---
 title: "CPTED - The Commercial Demonstration in Portland, Oregon"
-author: "ppb"
 date: "2015-10-02"
 cover: /assets/research.png
 agency: "National Institute of Justice - 1980"
