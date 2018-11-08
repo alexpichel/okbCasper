@@ -45,7 +45,6 @@ export const pageQuery = graphql`
             title
             date
             category
-            description
           }
         }
       }
