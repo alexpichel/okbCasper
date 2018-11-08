@@ -40,7 +40,6 @@ export const pageQuery = graphql`
         node {
           fields {
             slug
-            categorySlug
           }
           frontmatter {
             title
