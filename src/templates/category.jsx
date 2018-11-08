@@ -31,8 +31,6 @@ export const pageQuery = graphql`
       filter: {
         frontmatter: {
           category: { eq: $category }
-          layout: { eq: "post" }
-          draft: { ne: true }
         }
       }
       sort: { order: DESC, fields: [frontmatter___date] }
