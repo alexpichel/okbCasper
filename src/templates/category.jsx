@@ -14,7 +14,7 @@ class CategoryTemplate extends React.Component {
       <Layout location={this.props.location}>
         <div className="category-container">
           <Helmet
-            title={`Posts in category "${category}" | ${config.siteTitle}`}
+            title={`${category} | ${config.siteTitle}`}
           />
           <PostListing postEdges={postEdges} postAuthors={authorsEdges} />
         </div>
@@ -28,8 +28,12 @@ export const pageQuery = graphql`
   query CategoryPage($category: String) {
     allMarkdownRemark(
       limit: 1000
-      sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { category: { eq: $category } } }
+      filter: {
+        frontmatter: {
+          category: { eq: $category }
+        }
+      }
+      sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       totalCount
       edges {
@@ -37,18 +41,14 @@ export const pageQuery = graphql`
           fields {
             slug
           }
-          excerpt
-          timeToRead
           frontmatter {
             title
-            tags
-            cover
             date
+            category
           }
         }
       }
     }
-    # authors
     authors: allAuthorsJson {
       edges {
         node {
