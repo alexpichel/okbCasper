@@ -14,7 +14,7 @@ const getPostList = (postEdges, authorEdges) =>
   postEdges.map(postEdge => ({
     path: postEdge.node.fields.slug,
     tags: postEdge.node.frontmatter.tags,
-    category: postEdge.node.frontmatter.category,
+    categories: postEdge.node.frontmatter.categories,
     cover: postEdge.node.frontmatter.cover,
     subTitle: postEdge.node.frontmatter.subTitle,
     title: postEdge.node.frontmatter.title,

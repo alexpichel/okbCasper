@@ -64,6 +64,11 @@
     min-height: 180px;
 }
 
+.category-head.main-header {
+    height: 40vh;
+    min-height: 180px;
+}
+
 .no-cover.author-head.main-header {
     height: 10vh;
     min-height: 100px;

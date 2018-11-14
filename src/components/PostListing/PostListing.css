@@ -1,1 +1,17 @@
 /** empty css file for component consistency **/
+
+
+.newest-posts {
+    position: relative;
+    width: 80%;
+    max-width: 710px;
+    margin: 4rem auto;
+    padding-bottom: 1rem;
+    border-bottom: #4a4a4a 2px solid;
+    font-size: 3.8rem;
+    letter-spacing: -1px;
+    color: #4a4a4a;
+    line-height: 1.15em;
+    font-family: "Open Sans", sans-serif;
+    text-rendering: geometricPrecision;
+}

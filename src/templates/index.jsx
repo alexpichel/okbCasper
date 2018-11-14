@@ -73,7 +73,7 @@ class IndexTemplate extends React.Component {
               {/* The big featured header */}
               <MainHeader cover={config.siteCover}>
                 <MainNav overlay={config.siteCover}>
-                  <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
+                  <BlogLogo title={config.siteTitle} />
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -81,6 +81,7 @@ class IndexTemplate extends React.Component {
                 </MainNav>
                 <div className="vertical">
                   <div className="main-header-content inner">
+                    <img src="/logos/logo-192x192.png" alt="Green book in shape of Oregon (OKB Logo)" />
                     <PageTitle text={config.siteTitle} />
                     <PageDescription text={config.siteDescription} />
                     <SocialMediaIcons
@@ -100,7 +101,6 @@ class IndexTemplate extends React.Component {
                   <span className="hidden">Scroll Down</span>
                 </Link>
               </MainHeader>
-
               <PaginatedContent
                 page={page}
                 pages={pages}
@@ -109,6 +109,7 @@ class IndexTemplate extends React.Component {
                 prev={prev}
                 next={next}
               >
+                <h2 className="newest-posts">Recent Content</h2>
                 {/* PostListing component renders all the posts */}
                 <PostListing postEdges={nodes} postAuthors={authorsEdges} />
               </PaginatedContent>
