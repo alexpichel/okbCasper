@@ -24,6 +24,11 @@ module.exports = {
     "https://twitter.com/ORKnowledgeBank",
     "mailto:okb@oregon.gov"
   ],
+  siteCategoryUrls: [
+    "/categories/policing",
+    "/categories/research",
+    "/categories/correctional"
+  ],
   postDefaultCategoryID: "Policing", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
   userLinks: [
@@ -33,8 +38,8 @@ module.exports = {
       iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
     },
     {
-      label: "Twitter",
-      url: "https://twitter.com/gatsbyjs",
+      label: "Research",
+      url: "/categories/research",
       iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
     },
     {

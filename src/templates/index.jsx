@@ -84,10 +84,17 @@ class IndexTemplate extends React.Component {
                     <img src="/logos/logo-192x192.png" alt="Green book in shape of Oregon (OKB Logo)" />
                     <PageTitle text={config.siteTitle} />
                     <PageDescription text={config.siteDescription} />
-                    <SocialMediaIcons
+                    {/* { <SocialMediaIcons
                       urls={config.siteSocialUrls}
                       color="currentColor"
-                    />
+                    /> } */}
+                    { <SocialMediaIcons
+                      urls={config.siteCategoryUrls}
+                      color="currentColor"
+                    /> }
+                    <a href="/categories/policing">Policing</a>
+                    <a href="/categories/research">Research</a>
+                    <a href="/categories/correctional">Correctional</a>
                   </div>
                 </div>
                 <Link
